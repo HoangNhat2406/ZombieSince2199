@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD11254B-4E8E-6CF3-354E-C591C5C27A38}|Assembly-CSharp.csproj|D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD11254B-4E8E-6CF3-354E-C591C5C27A38}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD11254B-4E8E-6CF3-354E-C591C5C27A38}|Assembly-CSharp.csproj|D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD11254B-4E8E-6CF3-354E-C591C5C27A38}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD11254B-4E8E-6CF3-354E-C591C5C27A38}|Assembly-CSharp.csproj|d:\\hoctap\\pru213\\pj\\zombiesagesince2199\\assets\\scripts\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD11254B-4E8E-6CF3-354E-C591C5C27A38}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD11254B-4E8E-6CF3-354E-C591C5C27A38}|Assembly-CSharp.csproj|D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD11254B-4E8E-6CF3-354E-C591C5C27A38}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD11254B-4E8E-6CF3-354E-C591C5C27A38}|Assembly-CSharp.csproj|D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\assets\\scripts\\cursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD11254B-4E8E-6CF3-354E-C591C5C27A38}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD11254B-4E8E-6CF3-354E-C591C5C27A38}|Assembly-CSharp.csproj|D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD11254B-4E8E-6CF3-354E-C591C5C27A38}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasicEnemy.cs",
+              "DocumentMoniker": "D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\Assets\\Scripts\\BasicEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BasicEnemy.cs",
+              "ToolTip": "D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\Assets\\Scripts\\BasicEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BasicEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:14:24.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:50:18.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CursorManager.cs",
+              "DocumentMoniker": "D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\Assets\\Scripts\\CursorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CursorManager.cs",
+              "ToolTip": "D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\Assets\\Scripts\\CursorManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CursorManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T06:11:21.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:59:27.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\Assets\\Scripts\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gun.cs",
+              "ToolTip": "D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\Assets\\Scripts\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gun.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:28:07.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\HocTap\\PRU213\\PJ\\ZombiesAgeSince2199\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:48:08.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
