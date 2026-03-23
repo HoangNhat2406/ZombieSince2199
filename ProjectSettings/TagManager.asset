@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Bullet
+  - Energy
+  - Grass
+  - Ground
+  - Rock
+  - Gun
+  - HpBar
+  - PlayerBullet
+  - Tree
+  - Explosion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Rock
+  - Water
+  - UI
+  - Ground
+  - Grass
+  - Tree
+  - Player
+  - PlayerBullet
+  - Enemy
+  - Energy
+  - Gun
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 1404333517
+    locked: 0
+  - name: Grass
+    uniqueID: 2663648135
+    locked: 0
+  - name: Rock
+    uniqueID: 3510760317
+    locked: 0
+  - name: Tree
+    uniqueID: 611607531
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1655625769
+    locked: 0
+  - name: PlayerBullet
+    uniqueID: 1429880467
+    locked: 0
+  - name: Gun
+    uniqueID: 3826535715
+    locked: 0
+  - name: Enemy
+    uniqueID: 2576113377
+    locked: 0
+  - name: Energy
+    uniqueID: 3012596969
+    locked: 0
+  - name: HpBar
+    uniqueID: 3493512461
+    locked: 0
+  m_RenderingLayers:
+  - Default
