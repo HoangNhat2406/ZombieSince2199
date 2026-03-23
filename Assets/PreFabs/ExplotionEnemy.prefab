@@ -452,9 +452,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7471d5a717d2ab12c95da2ab5d0238ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyMoveSpeed: 3
+  enemyMoveSpeed: 4
   maxHP: 50
   hpBar: {fileID: 3399736607954764386}
-  enterDamage: 10
-  stayDamage: 1
+  enterDamage: 0
+  stayDamage: 0
   explosionPrefabs: {fileID: 4432978858882212217, guid: 266e24c20a5b740bbbee6eb249c76d32, type: 3}
