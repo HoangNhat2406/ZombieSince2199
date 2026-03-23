@@ -1,36 +1,30 @@
 fileFormatVersion: 2
-guid: 84462edc2164c954b8907ad14ce8c6d3
+guid: 178a5c70f4bcfd44bbd600fa393574ca
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1795782145759530926
-    second: ReloadCursor_0
+      213: 6779542824716074411
+    second: EnergyEnemy_0
   - first:
-      213: -1575846173783938945
-    second: ReloadCursor_1
+      213: -3907143179821982689
+    second: EnergyEnemy_1
   - first:
-      213: -1526453140426020141
-    second: ReloadCursor_2
+      213: 3453447221161161779
+    second: EnergyEnemy_2
   - first:
-      213: 7828535361742412238
-    second: ReloadCursor_3
+      213: 1075859235031558197
+    second: EnergyEnemy_3
   - first:
-      213: 6866341491466717387
-    second: ReloadCursor_4
+      213: -7612670963183259508
+    second: EnergyEnemy_4
   - first:
-      213: -1252074122437950695
-    second: ReloadCursor_5
-  - first:
-      213: -576703424668681605
-    second: ReloadCursor_6
-  - first:
-      213: -4626265795505472761
-    second: ReloadCursor_7
+      213: -5589624180177768581
+    second: EnergyEnemy_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -45,7 +39,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 1
+  isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -58,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,13 +66,13 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 7
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -173,177 +167,133 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ReloadCursor_0
+      name: EnergyEnemy_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 32
-        width: 12
-        height: 12
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 250b30427a91417e0800000000000000
-      internalID: -1795782145759530926
+      spriteID: badffbe8746c51e50800000000000000
+      internalID: 6779542824716074411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ReloadCursor_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 39
-        width: 16
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f7823fe0148712ae0800000000000000
-      internalID: -1575846173783938945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ReloadCursor_2
+      name: EnergyEnemy_1
       rect:
         serializedVersion: 2
         x: 32
-        y: 32
-        width: 12
-        height: 12
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3daa0aec4f2f0dae0800000000000000
-      internalID: -1526453140426020141
+      spriteID: f1cde189af907c9c0800000000000000
+      internalID: -3907143179821982689
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ReloadCursor_3
+      name: EnergyEnemy_2
       rect:
         serializedVersion: 2
-        x: 1
-        y: 16
-        width: 8
-        height: 16
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec99d342f6b84ac60800000000000000
-      internalID: 7828535361742412238
+      spriteID: 334fed353fb1def20800000000000000
+      internalID: 3453447221161161779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ReloadCursor_4
+      name: EnergyEnemy_3
       rect:
         serializedVersion: 2
-        x: 4
-        y: 4
-        width: 12
-        height: 12
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc8466105352a4f50800000000000000
-      internalID: 6866341491466717387
+      spriteID: 538216c26483eee00800000000000000
+      internalID: 1075859235031558197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ReloadCursor_5
+      name: EnergyEnemy_4
       rect:
         serializedVersion: 2
-        x: 32
-        y: 4
-        width: 12
-        height: 12
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 91380ab283dbf9ee0800000000000000
-      internalID: -1252074122437950695
+      spriteID: c80f787b71c5a5690800000000000000
+      internalID: -7612670963183259508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ReloadCursor_6
+      name: EnergyEnemy_5
       rect:
         serializedVersion: 2
-        x: 39
-        y: 16
-        width: 8
-        height: 16
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b7a3fdf6a432ff7f0800000000000000
-      internalID: -576703424668681605
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ReloadCursor_7
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 1
-        width: 16
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 70b3b5e15c33ccfb0800000000000000
-      internalID: -4626265795505472761
+      spriteID: b7fe1985c6aad62b0800000000000000
+      internalID: -5589624180177768581
       vertices: []
       indices: 
       edges: []
@@ -352,7 +302,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 07c3dfc92205e8bf28b44fcac59c1868
     internalID: 0
     vertices: []
     indices: 
@@ -362,14 +312,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ReloadCursor_0: -1795782145759530926
-      ReloadCursor_1: -1575846173783938945
-      ReloadCursor_2: -1526453140426020141
-      ReloadCursor_3: 7828535361742412238
-      ReloadCursor_4: 6866341491466717387
-      ReloadCursor_5: -1252074122437950695
-      ReloadCursor_6: -576703424668681605
-      ReloadCursor_7: -4626265795505472761
+      EnergyEnemy_0: 6779542824716074411
+      EnergyEnemy_1: -3907143179821982689
+      EnergyEnemy_2: 3453447221161161779
+      EnergyEnemy_3: 1075859235031558197
+      EnergyEnemy_4: -7612670963183259508
+      EnergyEnemy_5: -5589624180177768581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

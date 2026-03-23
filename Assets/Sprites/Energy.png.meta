@@ -1,36 +1,30 @@
 fileFormatVersion: 2
-guid: 84462edc2164c954b8907ad14ce8c6d3
+guid: 02469b552a63139f8ad3d94ef881923f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1795782145759530926
-    second: ReloadCursor_0
+      213: -7213742777133032008
+    second: Energy_0
   - first:
-      213: -1575846173783938945
-    second: ReloadCursor_1
+      213: 6358044271506398449
+    second: Energy_1
   - first:
-      213: -1526453140426020141
-    second: ReloadCursor_2
+      213: 6060072699007671174
+    second: Energy_2
   - first:
-      213: 7828535361742412238
-    second: ReloadCursor_3
+      213: 1941271771715160555
+    second: Energy_3
   - first:
-      213: 6866341491466717387
-    second: ReloadCursor_4
+      213: 1675206101249883660
+    second: Energy_4
   - first:
-      213: -1252074122437950695
-    second: ReloadCursor_5
-  - first:
-      213: -576703424668681605
-    second: ReloadCursor_6
-  - first:
-      213: -4626265795505472761
-    second: ReloadCursor_7
+      213: -8443895652006691878
+    second: Energy_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -45,7 +39,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 1
+  isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -58,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,13 +66,13 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 18
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 7
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -173,34 +167,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ReloadCursor_0
+      name: Energy_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 32
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 250b30427a91417e0800000000000000
-      internalID: -1795782145759530926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ReloadCursor_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 39
-        width: 16
+        x: 0
+        y: 0
+        width: 8
         height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -210,129 +182,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7823fe0148712ae0800000000000000
-      internalID: -1575846173783938945
+      spriteID: 8bd12fb0a23a3eb90800000000000000
+      internalID: -7213742777133032008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ReloadCursor_2
+      name: Energy_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3daa0aec4f2f0dae0800000000000000
-      internalID: -1526453140426020141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ReloadCursor_3
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 16
+        x: 8
+        y: 0
         width: 8
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec99d342f6b84ac60800000000000000
-      internalID: 7828535361742412238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ReloadCursor_4
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 4
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc8466105352a4f50800000000000000
-      internalID: 6866341491466717387
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ReloadCursor_5
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 4
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 91380ab283dbf9ee0800000000000000
-      internalID: -1252074122437950695
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ReloadCursor_6
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 16
-        width: 8
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b7a3fdf6a432ff7f0800000000000000
-      internalID: -576703424668681605
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ReloadCursor_7
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 1
-        width: 16
         height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -342,8 +204,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70b3b5e15c33ccfb0800000000000000
-      internalID: -4626265795505472761
+      spriteID: 1fc985d149f4c3850800000000000000
+      internalID: 6358044271506398449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b15691304b91450800000000000000
+      internalID: 6060072699007671174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9439d1468c0fa10800000000000000
+      internalID: 1941271771715160555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ef09ec2178f3710800000000000000
+      internalID: 1675206101249883660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbfca564a141da80800000000000000
+      internalID: -8443895652006691878
       vertices: []
       indices: 
       edges: []
@@ -352,7 +302,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ee018b2cde0e72a5bb904faea15bed11
     internalID: 0
     vertices: []
     indices: 
@@ -362,14 +312,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ReloadCursor_0: -1795782145759530926
-      ReloadCursor_1: -1575846173783938945
-      ReloadCursor_2: -1526453140426020141
-      ReloadCursor_3: 7828535361742412238
-      ReloadCursor_4: 6866341491466717387
-      ReloadCursor_5: -1252074122437950695
-      ReloadCursor_6: -576703424668681605
-      ReloadCursor_7: -4626265795505472761
+      Energy_0: -7213742777133032008
+      Energy_1: 6358044271506398449
+      Energy_2: 6060072699007671174
+      Energy_3: 1941271771715160555
+      Energy_4: 1675206101249883660
+      Energy_5: -8443895652006691878
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

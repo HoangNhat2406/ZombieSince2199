@@ -4,23 +4,31 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Bullet
   - Enemy
+  - Bullet
+  - Energy
+  - Grass
+  - Ground
+  - Rock
+  - Gun
+  - HpBar
+  - PlayerBullet
+  - Tree
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Rock
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Grass
+  - Tree
+  - Player
+  - PlayerBullet
+  - Enemy
+  - Energy
+  - Gun
   - 
   - 
   - 
@@ -40,35 +48,38 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 1404333517
+    locked: 0
+  - name: Grass
+    uniqueID: 2663648135
+    locked: 0
+  - name: Rock
+    uniqueID: 3510760317
+    locked: 0
+  - name: Tree
+    uniqueID: 611607531
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Ground
-    uniqueID: 656513645
-    locked: 0
-  - name: Grass
-    uniqueID: 2256664953
-    locked: 0
-  - name: Rock
-    uniqueID: 3332076523
-    locked: 0
-  - name: Tree
-    uniqueID: 3454156603
-    locked: 0
   - name: Player
-    uniqueID: 304777149
+    uniqueID: 1655625769
     locked: 0
-  - name: Bullet
-    uniqueID: 3178190925
+  - name: PlayerBullet
+    uniqueID: 1429880467
     locked: 0
   - name: Gun
-    uniqueID: 4190926143
+    uniqueID: 3826535715
     locked: 0
   - name: Enemy
-    uniqueID: 2557436207
+    uniqueID: 2576113377
     locked: 0
-  - name: HPBar
-    uniqueID: 1805312829
+  - name: Energy
+    uniqueID: 3012596969
+    locked: 0
+  - name: HpBar
+    uniqueID: 3493512461
     locked: 0
   m_RenderingLayers:
   - Default
