@@ -3,21 +3,34 @@ using UnityEngine.SceneManagement;
 
 public class LoseMenu : MonoBehaviour
 {
-    // Call this from a UI Button (OnClick)
+    [SerializeField] private GameObject losePanel; 
+
+    private void Start()
+    {
+        if (losePanel != null)
+        {
+            losePanel.SetActive(false); 
+        }
+    }
+
+    public void ShowLoseMenu()
+    {
+        if (losePanel != null)
+        {
+            losePanel.SetActive(true);
+            Time.timeScale = 0f;
+        }
+    }
+
     public void RetryGame(string sceneName)
     {
+        Time.timeScale = 1f; 
         SceneManager.LoadScene(sceneName);
     }
 
-    // Call this from a UI Button (OnClick)
     public void QuitGame()
     {
-        Debug.Log("Quit Game"); // Useful for testing in Editor
+        Debug.Log("Quit Game");
         Application.Quit();
-    }
-
-    public void Start()
-    {
-        gameObject.SetActive(false);
     }
 }

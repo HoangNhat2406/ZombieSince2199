@@ -10,6 +10,7 @@ public class Player : MonoBehaviour
     [SerializeField] private float maxHP = 100f;
     private float currentHP; 
     [SerializeField] private Image hpBar;
+    [SerializeField] private LoseMenu loseMenu;
 
     private void Awake()
     {
@@ -64,7 +65,11 @@ public class Player : MonoBehaviour
     }
     public void Die()
     {
-        Destroy(gameObject);
+        if (loseMenu != null)
+        {
+            loseMenu.ShowLoseMenu(); 
+        }
+        gameObject.SetActive(false);
     }
     private void UpdateHpBar()
     {
